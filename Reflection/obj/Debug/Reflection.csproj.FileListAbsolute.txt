@@ -1,0 +1,14 @@
+C:\Users\Kolyan\Desktop\  dsdgbs\CSharpLevel1-master\Lesson8\Reflection\bin\Debug\Reflection.exe.config
+C:\Users\Kolyan\Desktop\  dsdgbs\CSharpLevel1-master\Lesson8\Reflection\bin\Debug\Reflection.exe
+C:\Users\Kolyan\Desktop\  dsdgbs\CSharpLevel1-master\Lesson8\Reflection\bin\Debug\Reflection.pdb
+C:\Users\Kolyan\Desktop\  dsdgbs\CSharpLevel1-master\Lesson8\Reflection\obj\Debug\Reflection.csprojAssemblyReference.cache
+C:\Users\Kolyan\Desktop\  dsdgbs\CSharpLevel1-master\Lesson8\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+C:\Users\Kolyan\Desktop\  dsdgbs\CSharpLevel1-master\Lesson8\Reflection\obj\Debug\Reflection.exe
+C:\Users\Kolyan\Desktop\  dsdgbs\CSharpLevel1-master\Lesson8\Reflection\obj\Debug\Reflection.pdb
+E:\Project\Д.З. к уроку 8 Кирсанов Николай\Reflection\bin\Debug\Reflection.exe.config
+E:\Project\Д.З. к уроку 8 Кирсанов Николай\Reflection\bin\Debug\Reflection.exe
+E:\Project\Д.З. к уроку 8 Кирсанов Николай\Reflection\bin\Debug\Reflection.pdb
+E:\Project\Д.З. к уроку 8 Кирсанов Николай\Reflection\obj\Debug\Reflection.csprojAssemblyReference.cache
+E:\Project\Д.З. к уроку 8 Кирсанов Николай\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+E:\Project\Д.З. к уроку 8 Кирсанов Николай\Reflection\obj\Debug\Reflection.exe
+E:\Project\Д.З. к уроку 8 Кирсанов Николай\Reflection\obj\Debug\Reflection.pdb

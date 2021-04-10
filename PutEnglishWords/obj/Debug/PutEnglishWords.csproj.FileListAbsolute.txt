@@ -1,0 +1,10 @@
+E:\Project\Д.З. к уроку 8 Кирсанов Николай\PutEnglishWords\bin\Debug\PutEnglishWords.exe.config
+E:\Project\Д.З. к уроку 8 Кирсанов Николай\PutEnglishWords\bin\Debug\PutEnglishWords.exe
+E:\Project\Д.З. к уроку 8 Кирсанов Николай\PutEnglishWords\bin\Debug\PutEnglishWords.pdb
+E:\Project\Д.З. к уроку 8 Кирсанов Николай\PutEnglishWords\obj\Debug\PutEnglishWords.csprojAssemblyReference.cache
+E:\Project\Д.З. к уроку 8 Кирсанов Николай\PutEnglishWords\obj\Debug\PutEnglishWords.Form1.resources
+E:\Project\Д.З. к уроку 8 Кирсанов Николай\PutEnglishWords\obj\Debug\PutEnglishWords.Properties.Resources.resources
+E:\Project\Д.З. к уроку 8 Кирсанов Николай\PutEnglishWords\obj\Debug\PutEnglishWords.csproj.GenerateResource.cache
+E:\Project\Д.З. к уроку 8 Кирсанов Николай\PutEnglishWords\obj\Debug\PutEnglishWords.csproj.CoreCompileInputs.cache
+E:\Project\Д.З. к уроку 8 Кирсанов Николай\PutEnglishWords\obj\Debug\PutEnglishWords.exe
+E:\Project\Д.З. к уроку 8 Кирсанов Николай\PutEnglishWords\obj\Debug\PutEnglishWords.pdb

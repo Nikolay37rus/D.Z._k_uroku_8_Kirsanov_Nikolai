@@ -1,0 +1,6 @@
+E:\Project\Д.З. к уроку 8 Кирсанов Николай\ConvertCSVtoXML\bin\Debug\ConvertCSVtoXML.exe.config
+E:\Project\Д.З. к уроку 8 Кирсанов Николай\ConvertCSVtoXML\bin\Debug\ConvertCSVtoXML.exe
+E:\Project\Д.З. к уроку 8 Кирсанов Николай\ConvertCSVtoXML\bin\Debug\ConvertCSVtoXML.pdb
+E:\Project\Д.З. к уроку 8 Кирсанов Николай\ConvertCSVtoXML\obj\Debug\ConvertCSVtoXML.csproj.CoreCompileInputs.cache
+E:\Project\Д.З. к уроку 8 Кирсанов Николай\ConvertCSVtoXML\obj\Debug\ConvertCSVtoXML.exe
+E:\Project\Д.З. к уроку 8 Кирсанов Николай\ConvertCSVtoXML\obj\Debug\ConvertCSVtoXML.pdb

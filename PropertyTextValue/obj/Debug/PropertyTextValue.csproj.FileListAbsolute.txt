@@ -1,0 +1,10 @@
+E:\Project\Д.З. к уроку 8 Кирсанов Николай\PropertyTextValue\bin\Debug\PropertyTextValue.exe.config
+E:\Project\Д.З. к уроку 8 Кирсанов Николай\PropertyTextValue\bin\Debug\PropertyTextValue.exe
+E:\Project\Д.З. к уроку 8 Кирсанов Николай\PropertyTextValue\bin\Debug\PropertyTextValue.pdb
+E:\Project\Д.З. к уроку 8 Кирсанов Николай\PropertyTextValue\obj\Debug\PropertyTextValue.csprojAssemblyReference.cache
+E:\Project\Д.З. к уроку 8 Кирсанов Николай\PropertyTextValue\obj\Debug\PropertyTextValue.Form1.resources
+E:\Project\Д.З. к уроку 8 Кирсанов Николай\PropertyTextValue\obj\Debug\PropertyTextValue.Properties.Resources.resources
+E:\Project\Д.З. к уроку 8 Кирсанов Николай\PropertyTextValue\obj\Debug\PropertyTextValue.csproj.GenerateResource.cache
+E:\Project\Д.З. к уроку 8 Кирсанов Николай\PropertyTextValue\obj\Debug\PropertyTextValue.csproj.CoreCompileInputs.cache
+E:\Project\Д.З. к уроку 8 Кирсанов Николай\PropertyTextValue\obj\Debug\PropertyTextValue.exe
+E:\Project\Д.З. к уроку 8 Кирсанов Николай\PropertyTextValue\obj\Debug\PropertyTextValue.pdb
